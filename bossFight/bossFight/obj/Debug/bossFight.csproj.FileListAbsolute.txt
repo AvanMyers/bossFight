@@ -6,3 +6,11 @@ D:\Visual Studio\Project\bossFight\bossFight\obj\Debug\bossFight.csproj.Suggeste
 D:\Visual Studio\Project\bossFight\bossFight\obj\Debug\bossFight.csproj.CoreCompileInputs.cache
 D:\Visual Studio\Project\bossFight\bossFight\obj\Debug\ить.exe
 D:\Visual Studio\Project\bossFight\bossFight\obj\Debug\ить.pdb
+D:\Git Hub\bossFight\bossFight\bossFight\bin\Debug\ить.exe.config
+D:\Git Hub\bossFight\bossFight\bossFight\bin\Debug\ить.exe
+D:\Git Hub\bossFight\bossFight\bossFight\bin\Debug\ить.pdb
+D:\Git Hub\bossFight\bossFight\bossFight\obj\Debug\bossFight.csproj.AssemblyReference.cache
+D:\Git Hub\bossFight\bossFight\bossFight\obj\Debug\bossFight.csproj.SuggestedBindingRedirects.cache
+D:\Git Hub\bossFight\bossFight\bossFight\obj\Debug\bossFight.csproj.CoreCompileInputs.cache
+D:\Git Hub\bossFight\bossFight\bossFight\obj\Debug\ить.exe
+D:\Git Hub\bossFight\bossFight\bossFight\obj\Debug\ить.pdb

@@ -39,7 +39,6 @@ namespace bossFight
             Console.WriteLine($"4 - Безопасно выпить зелье купленное у таинственного торговца.");
             Console.WriteLine("Враг перед вами, что будете делать?");
 
-
             while (playerHealth >= 0 || bossHealt >= 0)
             {
                 userInput = Console.ReadLine();
