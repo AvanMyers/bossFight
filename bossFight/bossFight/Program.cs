@@ -156,12 +156,14 @@ namespace bossFight
                         Console.WriteLine("Дым развеивается и враг прекрасно вас видит.");
                     }
                 }
+
                 if (isPoisonOnDager && poisonOnDagger <= 0)
                 {
                         isPoisonOnDager = false;
                         playerDamage -= poisonDamage;
                         Console.WriteLine("Вы обращаете внимание на свой кинжал после удара и видите, что на нем не осталось и капли яда.");
                 }
+
                 if (playerHealth <= 0)
                 {
                     Console.WriteLine("Вы пытаетесь осмотреться, но не получается, ваше тело вас не слушается, что то странное... вы видите ваше тело без головы лежащее в траве, кажется начинается дождь," +
