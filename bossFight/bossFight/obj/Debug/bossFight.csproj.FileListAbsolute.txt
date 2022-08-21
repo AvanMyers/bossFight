@@ -1,0 +1,8 @@
+D:\Visual Studio\Project\bossFight\bossFight\bin\Debug\ить.exe.config
+D:\Visual Studio\Project\bossFight\bossFight\bin\Debug\ить.exe
+D:\Visual Studio\Project\bossFight\bossFight\bin\Debug\ить.pdb
+D:\Visual Studio\Project\bossFight\bossFight\obj\Debug\bossFight.csproj.AssemblyReference.cache
+D:\Visual Studio\Project\bossFight\bossFight\obj\Debug\bossFight.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\Project\bossFight\bossFight\obj\Debug\bossFight.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Project\bossFight\bossFight\obj\Debug\ить.exe
+D:\Visual Studio\Project\bossFight\bossFight\obj\Debug\ить.pdb
